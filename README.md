@@ -55,3 +55,6 @@ Comments (//, /* */)
 Delimiters (like ;, ,, {, })
 
 In conclusion, this C program provides a basic yet effective simulation of lexical analysis. It teaches essential principles of compiler design and C programming, making it a valuable learning tool for students and beginners in systems programming or language processing. The use of file operations, string comparison, character classification, and conditional logic makes it both practical and educational
+
+*OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/73283c7d-77af-4364-9eee-157220199f02" />
